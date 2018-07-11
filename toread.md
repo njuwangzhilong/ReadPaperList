@@ -10,3 +10,5 @@ wireless base stations to serve multiple clients simultaneously through multi-us
 
 #### [Practical Dynamic Taint Analysis for Countering Input Validation Attacks on Web Application](https://github.com/njuwangzhilong/ReadPaperList/blob/master/papers/Practical%20Dynamic%20Taint%20Analysis%20for%20Countering%20Input%20Validation%20Attacks%20on%20Web%20Application.pdf)   &nbsp;&nbsp;&nbsp;&nbsp;
 **abstract:**  
+
+[KFL](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf)
